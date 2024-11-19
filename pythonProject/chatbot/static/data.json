@@ -1,0 +1,114 @@
+{
+  "faqs": [
+    {
+      "category": "Admissions",
+      "question": "What is the admission process?",
+      "answer": "To apply for admission, you need to fill out the online application form available on the admissions page.",
+      "link": "https://mits.ac.in/admissions",
+      "tags": ["admission", "apply", "application"]
+    },
+    {
+      "category": "Courses",
+      "question": "What are the courses offered?",
+      "answer": " We offer various undergraduate and postgraduate programs. Visit the 'Courses' section on our website to view the complete list.",
+      "link": "https://mits.ac.in/courses",
+      "tags": ["courses", "programs", "departments", "branches"]
+    },
+    {
+      "category": "Contact",
+      "question": "How can I contact the college administration?",
+      "answer": "You can contact the administration via email at admin@mits.ac.in or call +91-123-456-7890.",
+      "tags": ["contact", "phone", "email"]
+    },
+    {
+      "category": "Results",
+      "question": "How to check the Results?",
+      "answer": "The results are available on the 'Exams portal' section of our website. You can download your respective grade cards.",
+      "tags": ["Results"]
+    },
+    {
+      "category": "Placements",
+      "question": "What about placements?",
+      "answer": "About placements, check the placements portal on our college website.",
+      "link": "https://mits.ac.in/placement",
+      "tags": ["placements"]
+    },
+    {
+      "category": "International Relationships",
+      "question": "What about International Relationships?",
+      "answer": "About International Relationships, check the International Relationships portal on our college website.",
+      "link": "https://mits.ac.in/international-relations",
+      "tags": ["International Relationships", "Abroad", "Other countries"]
+    },
+    {
+      "category": "Civil Department",
+      "question": "Give details about the civil department?",
+      "answer": "Check the civil department portal on our college website.",
+      "link": "https://mits.ac.in/department/6",
+      "tags": ["civil department", "civil"]
+    },
+    {
+      "category": "CSE Department",
+      "question": "Give details about the CSE department?",
+      "answer": "Check the CSE department portal on our college website.",
+      "link": "https://mits.ac.in/department/9",
+      "tags": ["cse department", "cse"]
+    },
+    {
+      "category": "CAI Department",
+      "question": "Give details about the CAI department?",
+      "answer": "Check the CAI department portal on our college website.",
+      "link": "https://mits.ac.in/department/28",
+      "tags": ["cai department", "cse", "artificial intelligence", "ai"]
+    },
+    {
+      "category": "CSD Department",
+      "question": "Give details about the CSD department?",
+      "answer": "Check the CSD department portal on our college website.",
+      "link": "https://mits.ac.in/department/26",
+      "tags": ["csd department", "csd", "data science", "ds"]
+    },
+    {
+      "category": "CSC Department",
+      "question": "Give details about the CSC department?",
+      "answer": "Check the CSC department portal on our college website.",
+      "link": "https://mits.ac.in/department/27",
+      "tags": ["csc department", "csc", "cyber security"]
+    },
+    {
+      "category": "CSM Department",
+      "question": "Give details about the CSM department?",
+      "answer": "Check the CSM department portal on our college website.",
+      "link": "https://mits.ac.in/cse-ai-ml",
+      "tags": ["csm department", "csm", "machine learning"]
+    },
+    {
+      "category": "CSN Department",
+      "question": "Give details about the CSN department?",
+      "answer": "Check the CSN department portal on our college website.",
+      "link": "https://mits.ac.in/cse-ai-ml",
+      "tags": ["csn department", "csn", "networks"]
+    },
+    {
+      "category": "ECE Department",
+      "question": "Give details about the ECE department?",
+      "answer": "Check the ECE department portal on our college website.",
+      "link": "https://mits.ac.in/department/12",
+      "tags": ["ece department", "ece"]
+    },
+    {
+      "category": "EEE Department",
+      "question": "Give details about the EEE department?",
+      "answer": "Check the EEE department portal on our college website.",
+      "link": "https://mits.ac.in/department/8",
+      "tags": ["eee department", "eee"]
+    },
+    {
+      "category": "Mechanical Department",
+      "question": "Give details about the Mechanical department?",
+      "answer": "Check the Mechanical department portal on our college website.",
+      "link": "https://mits.ac.in/department/8",
+      "tags": ["mechanical department", "mechanical"]
+    }
+  ]
+}
